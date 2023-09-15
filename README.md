@@ -1,0 +1,1 @@
+# Here All Javascript concepts are applied with projects
